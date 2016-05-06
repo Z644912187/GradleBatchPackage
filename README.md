@@ -1,5 +1,7 @@
 "# GradleBatchPackage" 
+
 多渠道打包
+
 第一步：添加渠道表示标签
 <!-- UMeng 配置-->
 <meta-data android:value="${UMENG_CHANNEL_VALUE}" android:name="UMENG_CHANNEL"/>
